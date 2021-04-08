@@ -1,4 +1,4 @@
-package com.xiaogang.fugui.controller;
+package com.xiaogang.fugui.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
